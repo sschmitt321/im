@@ -1,0 +1,38 @@
+{
+  "id": "mosowe-canvas-image",
+  "name": "canvas绘图，海报图，分享图，二维码生成",
+  "displayName": "canvas绘图，海报图，分享图，二维码生成",
+  "version": "2.0.4",
+  "description": "canvas绘图，海报图，分享图，二维码生成",
+  "keywords": [
+    "canvas绘图",
+    "海报图",
+    "分享图",
+    "二维码生成"
+],
+"dcloudext": {
+    "type": "component-vue",
+    "contact": {
+        "qq": ""
+    },
+    "declaration": {
+        "ads": "无",
+        "data": "无",
+        "permissions": "无"
+    },
+    "npmurl": ""
+},
+"uni_modules": {
+    "platforms": {
+        "client": {
+            "App": {
+                "app-harmony": "y",
+                "app-nvue": "u",
+                "app-uvue": "u",
+                "app-vue": "y"
+            }
+        }
+    }
+},
+"repository": ""
+}

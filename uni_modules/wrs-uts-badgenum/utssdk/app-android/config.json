@@ -1,0 +1,7 @@
+{
+	"dependencies": [
+		"me.leolin:ShortcutBadger:1.1.22@aar",
+		"com.blankj:utilcodex:1.31.0"
+	],
+  "minSdkVersion": "19"
+}
