@@ -1,10 +1,10 @@
-# Raingad-IM for uniapp
+# FuChat for uniapp
 
 技术栈：`vue3` + `pinia` + `color-UI`
 
 #### 目录结构
 ```
-Raingad
+FuChat
 ├─api                   接口目录
 │  ├─index.js           总的接口文件
 │  └─message.js         消息接口

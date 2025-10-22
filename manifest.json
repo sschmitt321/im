@@ -166,7 +166,7 @@
             "https" : false,
             "port" : ""
         },
-        "title" : "raingad-IM",
+        "title" : "FuChat",
         "unipush" : {
             "enable" : false
         },

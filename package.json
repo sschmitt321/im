@@ -1,16 +1,16 @@
 {
-	"name": "Raingad-IM",
+	"name": "FuChat",
 	"version": "6.1.0",
 	"description": "一款基于vue3.0的uniapp即时聊天工具",
 	"logo": "/static/image/logo.png",
-	"author": "Raingad",
+	"author": "FuChat Team",
 	"main": "main.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://gitee.com/raingad/instant-chat-uniapp.git"
+		"url": ""
 	},
 	"keywords": [],
 	"license": "ISC",

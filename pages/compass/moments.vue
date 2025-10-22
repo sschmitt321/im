@@ -21,7 +21,7 @@
 			<view class="cu-item shadow">
 				<view class="cu-list menu-avatar">
 					<view class="cu-item">
-						<view class="cu-avatar round lg" style="background-image:url(https://api.multiavatar.com/raingad3.png?apikey=zdvXV3W4MjwhP9);"></view>
+						<view class="cu-avatar round lg" style="background-image:url(https://api.multiavatar.com/fuchat3.png?apikey=zdvXV3W4MjwhP9);"></view>
 						<view class="content flex-sub">
 							<view>凯尔</view>
 							<view class="text-gray text-sm flex justify-between">
@@ -46,7 +46,7 @@
 
 				<view class="cu-list menu-avatar comment solids-top">
 					<view class="cu-item">
-						<view class="cu-avatar round" style="background-image:url(https://api.multiavatar.com/raingad5.png?apikey=zdvXV3W4MjwhP9);"></view>
+						<view class="cu-avatar round" style="background-image:url(https://api.multiavatar.com/fuchat5.png?apikey=zdvXV3W4MjwhP9);"></view>
 						<view class="content">
 							<view class="text-grey">莫甘娜</view>
 							<view class="text-gray text-content text-df">
@@ -69,7 +69,7 @@
 					</view>
 
 					<view class="cu-item">
-						<view class="cu-avatar round" style="background-image:url(https://api.multiavatar.com/raingad2.png?apikey=zdvXV3W4MjwhP9);"></view>
+						<view class="cu-avatar round" style="background-image:url(https://api.multiavatar.com/fuchat2.png?apikey=zdvXV3W4MjwhP9);"></view>
 						<view class="content">
 							<view class="text-grey">凯尔</view>
 							<view class="text-gray text-content text-df">
